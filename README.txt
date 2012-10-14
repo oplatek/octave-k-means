@@ -8,3 +8,5 @@
 2) VIEWING RESULTS OF k_means
     change directory to results and unzip results.zip 
     read README.txt
+
+Ondrej Platek
